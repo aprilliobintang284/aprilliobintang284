@@ -1,103 +1,55 @@
 <div align="center">
 
-## 👋 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Aprillio%20Bintang&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
 
-</div>
+### 🛡️ Quality Assurance Specialist & Digital Creator
 
-Quality Assurance Specialist focusing on **functional testing**, **API testing** & **bug reporting** at **PT. BULLION ECOSYSTEM**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=45&lines=Functional+%26+API+Testing;End-to-End+Payment+Systems;3.8M%2B+Reach+Content+Creator;Precision-Driven+Bug+Hunter" alt="Typing SVG" />
 
-Freelance Gaming Content Creator producing **Honor of Kings** content on TikTok with **3.8M+ views**.
+<p align="center">
+  <a href="https://linkedin.com/in/aprilliobintang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://aprilporto.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.tiktok.com/@scarawanderr"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:aprilliobintang455@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
----
+<br/>
 
-<div align="center">
-
-## 📊 Quick Stats
-
-🎬 **3.8M+ Views** | 🔍 **352+ QA Tests** | ⌨️ **108 WPM**
-
-110+ Videos • 50+ Test Cases • Typing Speed
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 What I Do
-
-</div>
-
-**🛡️ QA & Testing**
-
-Functional Testing • API Testing • Bug Reporting • Test Design • System Monitoring
-
-**🎬 Content Creation**
-
-Video Editing • Content Strategy • Trend Analysis • Gaming Content • Community Growth
-
----
-
-<div align="center">
-
-## 🏆 Current Roles
-
-</div>
-
-**🔵 QA Specialist**
-PT. BULLION ECOSYSTEM | Jun 2025 - Present
-
-🔹 End-to-end testing
-🔹 Payment Gateway MVP
-🔹 Plane bug reporting
-🔹 Test case management
-
-**🔴 Content Creator**
-Honor of Kings TikTok | 2025 - Present
-
-🔹 50+ promotional videos
-🔹 Creator Camp participant
-🔹 Algorithm-driven strategy
-🔹 Millions of cumulative views
-
----
-
-<div align="center">
-
-## 🎓 Latest Certifications
-
-🔵 **Microsoft 365 Copilot** | ✅ **QA Test Technique** | 📊 **Excel Analysis**
-
-<sub>→ More details at [aprilporto.vercel.app](https://aprilporto.vercel.app/)</sub>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="90%" />
 
 </div>
 
 ---
 
+### 💻 Testing Arsenal & Tooling
+
 <div align="center">
-
-## 🌐 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aprilliobintang455-boop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aprilliobintang)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@scarawanderr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aprillio.bintang/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aprilliobintang455@gmail.com)
-
+  <img src="https://skillicons.dev/icons?i=postman,figma,github,vscode,js,ts,python" alt="Tech Stack" />
 </div>
 
+<br/>
+
+- **Test Engineering**: Functional UI Testing, API Integration Testing, End-to-End (E2E) Verification, Edge-Case Profiling.
+- **Workflow & Audit**: Test Matrix Planning, Bug Lifecycle Tracking, Console & Server Log Inspection.
+- **Creative Strategy**: Data-Driven Engagement, Algorithm Optimization, Short-Form Tech & Gaming Showcases.
+
+---
+
+### 🚀 Highlights & Experience
+
+- **Quality Assurance Specialist** `(Jun 2025 – Present)`
+  - Directing quality validation for core Payment Gateway MVP architectures.
+  - Designing rigorous test cases, boundary checks, and reproducible defect logs for smooth production rollouts.
+  
+- **Gaming Creator & Strategist** — *Honor of Kings* `(2025 – Present)`
+  - Scaled a personal gaming channel to **3.8M+ views** across 110+ high-retention video analyses.
+
 ---
 
 <div align="center">
 
-### 💬 Open For
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=100&section=footer" width="100%" alt="Footer" />
 
-🛡️ QA Opportunities • 🎬 Content Collaborations • 💼 Professional Offers
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1500&color=FF006E&center=true&vCenter=true&width=350&height=50&lines=Available+for+Work;Let's+create+excellence+together" alt="Available" />
-
-© 2026 · **Aprillio Bintang Perdana**
+<sub>Available for QA Roles & Creative Tech Collaborations • **Aprillio Bintang Perdana**</sub>
 
 </div>
