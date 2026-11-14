@@ -41,7 +41,9 @@ I'm a **Quality Assurance Specialist** who makes sure payment systems work exact
 ### 💻 Testing Arsenal & Tooling
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=postman,figma,github,vscode,js,ts,python&theme=dark" alt="Tech Stack" />
+
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="44" alt="Postman" title="Postman" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/figma/F24E1E" height="44" alt="Figma" title="Figma" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/FFFFFF" height="44" alt="GitHub" title="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" height="44" alt="VS Code" title="VS Code" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="44" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6" height="44" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB" height="44" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/claude/D97757" height="44" alt="Claude" title="Claude" />
+
 </div>
 
 <br/>
