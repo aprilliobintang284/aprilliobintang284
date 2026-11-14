@@ -60,15 +60,6 @@ I'm a **Quality Assurance Specialist** who makes sure payment systems work exact
 - 💳 Directing quality validation for core Payment Gateway MVP architectures.
 - 🧩 Designing rigorous test cases, boundary checks, and reproducible defect logs for smooth production rollouts.
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aprilliobintang284&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilliobintang284&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top Languages" />
-</div>
-
 <br/>
 
 <div align="center">
